@@ -1,1 +1,1 @@
-Huddle: GDG Sheridan - Open-Source Projects 2026
+Huddle: GDG Sheridan - Open-Source Project 2026
